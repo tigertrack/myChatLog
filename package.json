@@ -1,0 +1,17 @@
+{
+  "name": "itemku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "riandy <riandyfadly@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  },
+  "dependencies": {
+    "@types/jest": "^27.0.1"
+  }
+}
